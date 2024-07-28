@@ -50,8 +50,9 @@ wp-config.php
 /wp-content/themes/twentytwentyfour/style.css
 /wp-content/themes/twentytwentyfour/theme.json
 
-# Example plugin
-/wp-content/plugins/hello.php
+/wp-content/themes/hello-elementor
+
+
 
 # Uploads
 /wp-content/uploads/
